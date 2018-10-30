@@ -24,6 +24,8 @@
     "@ng-dynamic-forms/ui-basic": "^6.2.0",
     "@ng-dynamic-forms/ui-kendo": "^6.2.0",
     "core-js": "^2.5.4",
+    "karma-junit-reporter": "^1.2.0",
+    "karma-phantomjs-launcher": "^1.0.4",
     "rxjs": "~6.2.0",
     "zone.js": "~0.8.26"
   },
